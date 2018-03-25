@@ -6,9 +6,9 @@ if(isset($_POST['email'])) {
  
     // ADD YOUR EMAIL WHERE YOU WANT TO RECIEVE THE MESSAGES
  
-    $email_to = "your.email@mail.com";
+    $email_to = "contact@amgrowth.com";
  
-    $email_subject = "Definity - Contact Form";
+    $email_subject = "Contact Form Submission";
  
      
  

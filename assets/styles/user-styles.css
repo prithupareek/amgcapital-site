@@ -47,3 +47,13 @@
   background: url("../images/blue.png");
   background-size: cover;
 }
+
+@font-face {
+    font-family: 'helveticaneuelight';
+    src: url('../fonts/helveticaneue_light-webfont.woff2') format('woff2'),
+         url('../fonts/helveticaneue_light-webfont.woff') format('woff'),
+         url('../fonts/helveticaneue_light-webfont.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+
+}

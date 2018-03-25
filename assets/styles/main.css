@@ -2029,7 +2029,7 @@ fieldset[disabled] .form-control:hover {
 
 /* ---- 4.5 Header/Page Title Parallax ---- */
 .pt-plax-md-dark {
-  background: url(http://placehold.it/2440x1280);
+  background: url(../images/bg-about.png);
   background-size: cover;
   background-position: 50%;
 }
@@ -2060,8 +2060,8 @@ fieldset[disabled] .form-control:hover {
 }
 
 .pt-plax-lg-dark {
-  background: url(http://placehold.it/2440x1280);
-  background-size: cover;
+/*  background: url(http://placehold.it/2440x1280);
+*/  background-size: cover;
 }
 
 .pt-plax-lg-dark:before {
@@ -2552,10 +2552,11 @@ fieldset[disabled] .form-control:hover {
 -------------------------------------------------- */
 .navbar {
   margin-bottom: 0;
-  min-height: 75px;
+  min-height: 100px;
   border-bottom: 1px solid #ececec;
   border-radius: 0;
   background: #fff;
+  padding-bottom: 3%;
 }
 
 .navbar .navbar-header {
@@ -4018,7 +4019,7 @@ fieldset[disabled] .form-control:hover {
 
 .video-bg-section {
   height: 365px;
-  background: #ccc url(http://placehold.it/2440x1578);
+  background: #ccc url(../images/bg-main.png);
   background-position: 50%;
   background-size: cover;
 }
@@ -4197,7 +4198,7 @@ fieldset[disabled] .form-control:hover {
 /* ---- 10.1 Circle Counters ---- */
 .circles-counters, .circles-counters-dark-bg {
   position: relative;
-  background: #ccc url(http://placehold.it/2440x1578);
+  background: #ccc url(../images/bg-main.png);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -4371,7 +4372,7 @@ fieldset[disabled] .form-control:hover {
 -------------------------------------------------- */
 /* ---- 12.1 Testimonial - 1 Column Slider ---- */
 .testimonials-parallax, .testimonials-dark {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
   background-position: 50%;
   background-attachment: fixed;
@@ -4485,7 +4486,7 @@ fieldset[disabled] .form-control:hover {
 }
 
 .testimonials-bg-2 {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
   background-position: 50%;
   background-attachment: fixed;
@@ -4581,7 +4582,7 @@ fieldset[disabled] .form-control:hover {
 
 /* ---- 12.3 Clients List ---- */
 .clients-list-parallax, .clients-list-minimal, .clients-list-gray {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -7268,7 +7269,7 @@ form .input-error-2:focus {
   position: relative;
   width: 100%;
   height: 100%;
-  background: #ececec url(http://placehold.it/2440x1578);
+  background: #ececec url(../images/bg-main.png);
   background-position: 50%;
   background-size: cover;
   background-attachment: fixed;
@@ -7428,7 +7429,7 @@ form .input-error-2:focus {
 .comingsoon {
   width: 100%;
   height: 100vh;
-  background: #ececec url(http://placehold.it/2440x1578);
+  background: #ececec url(../images/bg-main.png);
   background-position: 50%;
   background-size: cover;
 }
@@ -7498,7 +7499,7 @@ form .input-error-2:focus {
   display: table;
   width: 100%;
   height: 100vh;
-  background: #ececec url(http://placehold.it/2440x1578);
+  background: #ececec url(../images/bg-main.png);
   background-position: 50%;
   background-size: cover;
 }
@@ -7597,7 +7598,7 @@ form .input-error-2:focus {
 	23.0 Maintenance Page
 -------------------------------------------------- */
 .bg-maintenance {
-  background: #ccc url(http://placehold.it/2440x1578);
+  background: #ccc url(../images/bg-main.png);
   background-position: 50%;
   background-size: cover;
 }
@@ -7851,7 +7852,7 @@ form .input-error-2:focus {
   position: relative;
   width: 100%;
   height: 100vh;
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -7926,7 +7927,7 @@ form .input-error-2:focus {
 }
 
 .fs-slide-1 {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
 }
 
@@ -7953,7 +7954,7 @@ form .input-error-2:focus {
 }
 
 .fs-slide-2 {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
 }
 
@@ -7984,7 +7985,7 @@ form .input-error-2:focus {
 }
 
 .fs-slide-3 {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
 }
 
@@ -8051,7 +8052,7 @@ form .input-error-2:focus {
 }
 
 .fw-slider-hero .fw-slide-1, .fw-slider-hero .fw-slide-3 {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
   background-position: 50%;
 }
@@ -8075,7 +8076,7 @@ form .input-error-2:focus {
 }
 
 .fw-slider-hero .fw-slide-2 {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
   background-position: 50%;
 }
@@ -8107,7 +8108,7 @@ form .input-error-2:focus {
 }
 
 .fw-slider-hero .fw-slide-3 {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
   background-position: 50%;
 }
@@ -8123,7 +8124,7 @@ form .input-error-2:focus {
 
 /* ---- 20.4 Full Screen Video ---- */
 .fs-video-hero, .fw-video-hero {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
 }
 
@@ -8172,7 +8173,7 @@ form .input-error-2:focus {
 
 /* ---- 20.6 Text Slider ---- */
 .text-slider-hero {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
   background-position: 50%;
 }
@@ -8207,7 +8208,7 @@ form .input-error-2:focus {
 
 /* ---- 20.7 Freelancer ---- */
 .freelancer-hero {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
   background-position: 40%;
   background-attachment: fixed;
@@ -8284,7 +8285,7 @@ form .input-error-2:focus {
 }
 
 .agency2-hero {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
   background-position: 50%;
   background-attachment: fixed;
@@ -8354,7 +8355,7 @@ form .input-error-2:focus {
 
 /* ---- 20.9 Animated Heading ---- */
 .animated-hero {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
   background-position: 50%;
   background-attachment: fixed;
@@ -8464,7 +8465,7 @@ form .input-error-2:focus {
   position: relative;
   width: 100%;
   height: 100vh;
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
   background-position: 40%;
   background-attachment: fixed;
@@ -8571,7 +8572,7 @@ form .input-error-2:focus {
 }
 
 .web-app-hero {
-  background: url(http://placehold.it/2440x1578);
+  background: url(../images/bg-main.png);
   background-size: cover;
   background-position: 50%;
   background-attachment: fixed;

@@ -138,7 +138,7 @@ Author: Siddharth Doshi
     $('.mc-ajax').ajaxChimp({
         callback: mailchimpCallback,
         // Replace this with your own url, id and user code (see documentation). 
-        url: "http://viktorandonov.us8.list-manage.com/subscribe/post?u=0d1613dc78dfba6e3ad02aaa5&amp;id=25d4404c02" 
+        url: "https://blessd.us16.list-manage.com/subscribe/post?u=c11a5d866ec6f4942cbd812d0&amp;id=811ef15a70" 
     });
 
     function mailchimpCallback(resp) {
